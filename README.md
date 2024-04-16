@@ -1,18 +1,18 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://amitpro.netlify.app/)
 
-<h1 align="center">Hi 👋, I'm Amit Kumar</h1>
+<h1 align="center">Hi 👋, I'm Priyanka Kumari</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next Js**
 
 - 🤝 I’m looking for help with **MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://amitpro.netlify.app/](https://amitpro.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://amitpro.netlify.app/](https://priyanka807.netlify.app/)
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **amitcoder98gmail.com**
+- 📫 How to reach me **gmail.com**
 
 - 📄 Know about my experiences [https://amitpro.netlify.app/](https://amitpro.netlify.app/)
 
