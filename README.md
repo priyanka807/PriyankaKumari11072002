@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://amitpro.netlify.app/)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://priyanka807.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Priyanka Kumari</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
@@ -8,13 +8,13 @@
 
 - 🤝 I’m looking for help with **MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://amitpro.netlify.app/](https://priyanka807.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://priyanka807.netlify.app/](https://priyanka807.netlify.app/)
 
 - 💬 Ask me about **Web development**
 
 - 📫 How to reach me **gmail.com**
 
-- 📄 Know about my experiences [https://amitpro.netlify.app/](https://amitpro.netlify.app/)
+- 📄 Know about my experiences [https://priyanka807.netlify.app/](https://priyanka807.netlify.app/)
 
 - ⚡ Fun fact **I am Funny**
 
@@ -54,21 +54,21 @@
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amitk2108&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanka807&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
 
 
 <hr>
 
-<img align="center" width="500"  src="https://github-readme-stats.vercel.app/api?username=amitk2108&show_icons=true&locale=en&theme=tokyonight" alt="amitk2108" /><br>
+<img align="center" width="500"  src="https://github-readme-stats.vercel.app/api?username=priyanka807&show_icons=true&locale=en&theme=tokyonight" alt="amitk2108" /><br>
 <br>
-<img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=amitk2108&&theme=tokyonight" alt="amitk2108" /><br>
+<img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka807&&theme=tokyonight" alt="amitk2108" /><br>
 <br>
-<img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitk2108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amitk2108" /><br>
+<img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka807&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="priyanka807" /><br>
 
 <hr>
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Amitk2108)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=priyanka807)](https://github.com/ryo-ma/github-profile-trophy)
