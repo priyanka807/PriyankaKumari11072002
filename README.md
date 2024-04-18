@@ -49,9 +49,7 @@
 | Job-list                 | [view](https://job-list-assignment-mu.vercel.app/) |        [view](https://github.com/priyanka807/job-list-assignment)         | `JavaScript` `CSS` `HTML` `NextJs`                                               |
 | CrudApplication                   | [view](https://crud-app-two-green.vercel.app/) |        [view](https://github.com/priyanka807/crudApplication)         | `JavaScript` `CSS` `HTML` `Formik` `Yup` `db.json` 
 <br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanka807&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
 
