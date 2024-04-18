@@ -58,14 +58,10 @@
 
 <hr>
 
-<img align="center" width="500"  src="https://github-readme-stats.vercel.app/api?username=priyanka807&show_icons=true&locale=en&theme=tokyonight" alt="priyanka807" /><br>
-<br>
-<img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka807&&theme=tokyonight" alt="priyanka807" /><br>
-<br>
-<img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka807&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="priyanka807" /><br>
+
 
 <hr>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=priyanka807)](https://github.com/ryo-ma/github-profile-trophy)
 
 
