@@ -42,9 +42,9 @@
 
 | Projects                              |                    Deployed Link                     |                                Repository                                 | Tech Stack & Tools                                                        |
 | :------------------------------------ | :--------------------------------------------------: | :-----------------------------------------------------------------------: | :------------------------------------------------------------------------ |
-| Movies and Tv Shows full Info Website |       [view](https://movie-website-ruddy.vercel.app/)        |              [view](https://github.com/priyanka807/Movie-website))               | `React.js` `Redux Toolkit` `JavaScript` `sass` `axios` `react router dom` |
-| YouTube Clone                         |        [view](https://amittube.netlify.app/)         |               [view](https://github.com/Amitk2108/amittube)               | `React.js` `JavaScript` `Tailwind CSS` `axios` `react router dom`         |
-| Cryptocurrency Dashboard              |    [view](https://currencydashb.netlify.app/)        | [view](https://github.com/Amitk2108/CryptocurrencyDashboard)              | `React.js` `Redux Toolkit` `JavaScript` `Tailwind CSS` `Chart Js` `Headless Ui` `CoinGecko API`|
+| Movies and Tv Shows full Info Website |       [view](https://movie-website-ruddy.vercel.app/)        |              [view](https://github.com/priyanka807/Movie-website)               | `React.js` `Redux Toolkit` `JavaScript` `sass` `axios` `react router dom` |
+| YouTube Clone                         |        [view](https://youtube-clone-taupe-psi.vercel.app/)         |               [view](https://github.com/priyanka807/youtube-clone)               | `React.js` `JavaScript` `Tailwind CSS` `axios` `react router dom`         |
+| Eglogics LandingPage             |    [view](https://currencydashb.netlify.app/)        | [view](https://www.eglogics.com/)              | `React.js` `Redux Toolkit` `JavaScript` `Tailwind CSS` `Chart Js` `Headless Ui` `CoinGecko API`|
 | Myntra Clone                          |    [view](https://myntraclonemasai.netlify.app/)     | [view](https://github.com/sandeshjadhav5/Myntra_E-Commerce_Website_Clone) | `JavaScript` `CSS` `HTML` `API`                                           |
 | Toggl Track Clone                     | [view](https://aesthetic-sundae-0740ce.netlify.app/) |        [view](https://github.com/YashSharma7746/TooglTrack_Clone)         | `JavaScript` `CSS` `HTML`                                                 |
 
