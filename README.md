@@ -49,16 +49,18 @@
 | Job-list                 | [view](https://job-list-assignment-mu.vercel.app/) |        [view](https://github.com/priyanka807/job-list-assignment)         | `JavaScript` `CSS` `HTML` `NextJs`                                               |
 | CrudApplication                   | [view](https://crud-app-two-green.vercel.app/) |        [view](https://github.com/priyanka807/crudApplication)         | `JavaScript` `CSS` `HTML` `Formik` `Yup` `db.json` 
 <br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanka807&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
 
 
 <hr>
 
-<img align="center" width="500"  src="https://github-readme-stats.vercel.app/api?username=priyanka807&show_icons=true&locale=en&theme=tokyonight" alt="amitk2108" /><br>
+<img align="center" width="500"  src="https://github-readme-stats.vercel.app/api?username=priyanka807&show_icons=true&locale=en&theme=tokyonight" alt="priyanka807" /><br>
 <br>
-<img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka807&&theme=tokyonight" alt="amitk2108" /><br>
+<img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka807&&theme=tokyonight" alt="priyanka807" /><br>
 <br>
 <img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka807&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="priyanka807" /><br>
 
@@ -66,4 +68,4 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=priyanka807)](https://github.com/ryo-ma/github-profile-trophy)
+
