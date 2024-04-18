@@ -46,8 +46,8 @@
 | YouTube Clone                         |        [view](https://youtube-clone-taupe-psi.vercel.app/)         |               [view](https://github.com/priyanka807/youtube-clone)               | `React.js` `JavaScript` `Tailwind CSS` `axios` `react router dom`         |
 | Eglogics LandingPage             |    [view](https://www.eglogics.com/)        | [view]()              | `HTML5` `CSS3` `Jquery` `Laravel` `Bootstrap` `|
 |Indimedo                        |    [view](https://indimedo.vercel.app/)     | [view](https://github.com/priyanka807/indimedo-service1) | `React.js` `Redux Toolkit` `JavaScript` `Html`  `Css`  `formik`  `yup`  `axios` `react router dom`                                            |
-| JOB-LIST                   | [view](https://job-list-assignment-mu.vercel.app/) |        [view](https://github.com/priyanka807/job-list-assignment)         | `JavaScript` `CSS` `HTML` 'NextJs'                                                |
-
+| Job-list                 | [view](https://job-list-assignment-mu.vercel.app/) |        [view](https://github.com/priyanka807/job-list-assignment)         | `JavaScript` `CSS` `HTML` `NextJs`                                               |
+| CrudApplication                   | [view](https://crud-app-two-green.vercel.app/) |        [view]https://github.com/priyanka807/crudApplication()         | `JavaScript` `CSS` `HTML` `Formik` `Yup` `db.json` 
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
 
