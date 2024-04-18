@@ -44,9 +44,9 @@
 | :------------------------------------ | :--------------------------------------------------: | :-----------------------------------------------------------------------: | :------------------------------------------------------------------------ |
 | Movies and Tv Shows full Info Website |       [view](https://movie-website-ruddy.vercel.app/)        |              [view](https://github.com/priyanka807/Movie-website)               | `React.js` `Redux Toolkit` `JavaScript` `sass` `axios` `react router dom` |
 | YouTube Clone                         |        [view](https://youtube-clone-taupe-psi.vercel.app/)         |               [view](https://github.com/priyanka807/youtube-clone)               | `React.js` `JavaScript` `Tailwind CSS` `axios` `react router dom`         |
-| Eglogics LandingPage             |    [view]()        | [view](https://www.eglogics.com/)              | `React.js` `Redux Toolkit` `JavaScript` `Tailwind CSS` `Chart Js` `Headless Ui` `CoinGecko API`|
-|Indimedo                        |    [view](https://indimedo.app/)     | [view](https://github.com/indimedo1-service) | ``React.js` `Redux Toolkit` `JavaScript` `sass` `axios` `react router dom` `                                           |
-| Toggl Track Clone                     | [view](https://aesthetic-sundae-0740ce.netlify.app/) |        [view](https://github.com/YashSharma7746/TooglTrack_Clone)         | `JavaScript` `CSS` `HTML`                                                 |
+| Eglogics LandingPage             |    [view](https://www.eglogics.com/)        | [view]()              | `HTML5` `CSS3` `Jquery` `Laravel` `Bootstrap` `|
+|Indimedo                        |    [view](https://indimedo.vercel.app/)     | [view](https://github.com/priyanka807/indimedo-service1) | `React.js` `Redux Toolkit` `JavaScript` `Html`  `Css`  `formik`  `yup`  `axios` `react router dom`                                            |
+| JOB-LIST                   | [view](https://job-list-assignment-mu.vercel.app/) |        [view](https://github.com/priyanka807/job-list-assignment)         | `JavaScript` `CSS` `HTML` 'NextJs'                                                |
 
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
