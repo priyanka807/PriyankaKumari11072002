@@ -46,7 +46,7 @@
 | YouTube Clone                         |        [view](https://youtube-clone-taupe-psi.vercel.app/)         |               [view](https://github.com/priyanka807/youtube-clone)               | `React.js` `JavaScript` `Tailwind CSS` `axios` `react router dom`  `Material UI`         |
 | Job List          |    [view](https://vercel.com/priyankas-projects-e74baf4e)        | [view](https://github.com/priyanka807/job-list-assignment)              | `HTML5` `CSS3` `` `Laravel` `Bootstrap` `|
 |Indimedo                        |    [view](https://indimedo.vercel.app/)     | [view](https://github.com/priyanka807/indimedo-service1) | `React.js` `Redux Toolkit` `JavaScript` `Html`  `Css`  `formik`  `yup`  `axios` `react router dom` `Material UI`                                           |
-| Job-list                 | [view](https://job-list-assignment-mu.vercel.app/) |        [view](https://github.com/priyanka807/job-list-assignment)         | `NextJs` `CSS` `HTML` `Redux/toolkit`                                              |
+| PrathamOnline               | [view](https://prathamonline.vercel.app/) |        [view](https://github.com/priyanka807/phrathamonline)         | `Html5` `CSS3` `Bootstrap`                                               |
 | CrudApplication                   | [view](https://crud-app-two-green.vercel.app/) |        [view](https://github.com/priyanka807/crudApplication)         | `JavaScript` `CSS` `HTML` `Formik` `Yup` `db.json` 
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
